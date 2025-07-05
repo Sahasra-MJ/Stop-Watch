@@ -8,14 +8,19 @@ A simple and responsive Stopwatch application built using HTML, CSS, and JavaScr
 🚀 Features
 
   Start, Stop, and Reset buttons
+  
   Real-time timer display (HH:MM:SS format)
+  
   Pure front-end project – no frameworks used
+  
   Responsive design with modern CSS styling
 
 📁 Tech Stack
 
   HTML5
+  
   CSS3
+  
   JavaScript (Vanilla)
 
 💡 How to Use
